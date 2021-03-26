@@ -9,7 +9,7 @@ export default function Home() {
                 <div class="pt-6 md:p-8 text-center space-y-4 mx-auto my-auto">
                     <blockquote>
                         <p class="text-lg font-semibold">
-                                I'm Garvin Mo Zhen. I am currenly a 3rd year at UCSD c/o 2022. Interested data science, 
+                                I'm Garvin Mo Zhen. I am currenly a 3rd year at UCSD c/o 2022. Interested in data science, 
                                 machine learning and software development.
                     </p>
                     </blockquote>

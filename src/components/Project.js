@@ -27,7 +27,7 @@ export default function Project() {
                     <blockquote>
                     <h3 class="text-xl font-semibold">Traffic Analysis</h3>
                         <p class="text-lg">
-                                Data science project that analysed the relationship between traffic collisions in NYC and 
+                                Data science project that analyzed the relationship between traffic collisions in NYC and 
                                 rising COVID-19 cases. 
                     </p>
                     </blockquote>
