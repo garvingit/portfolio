@@ -13,7 +13,7 @@ export default function Work() {
                 </div>
                 <div class="container pt-6 text-center ">
                     <ul class="text-lg">
-                        <li class="text-lg font-semibold">
+                        <li class="text-lg font-semibold mt-5">
                             First time being exposed to web development. Spent a good amount of time reading up on document that
                             the company used. Created a website using React, Bootstrap, and the Big Commerce API for the company's product.
                         </li>
